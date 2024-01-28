@@ -1,4 +1,3 @@
-Originates from the TI leak, this was before the paint and portal 2 folders were merged, however this code was mostly intended for Portal 2. 
 Includes the Paintgun and Paintgun Powerups. Includes server, client and shared. 
 Does not include Blobulator.
 
